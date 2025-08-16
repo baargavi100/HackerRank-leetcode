@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/baargavi100/HackerRank-leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2083-three-divisors](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2507-number-of-common-factors](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2507-number-of-common-factors) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2752-sum-multiples](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2752-sum-multiples) |
 ## Dynamic Programming
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/baargavi100/HackerRank-leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2507-number-of-common-factors) |
 ## Brainteaser
 |  |
 | ------- |

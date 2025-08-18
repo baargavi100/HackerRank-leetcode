@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2507-number-of-common-factors) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2748-calculate-delayed-arrival-time](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/baargavi100/HackerRank-leetcode/tree/master/2752-sum-multiples) |
 ## Dynamic Programming
 |  |

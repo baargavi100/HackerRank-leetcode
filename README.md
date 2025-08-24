@@ -83,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/baargavi100/HackerRank-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/baargavi100/HackerRank-leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/baargavi100/HackerRank-leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

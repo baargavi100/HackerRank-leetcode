@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/baargavi100/HackerRank-leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/baargavi100/HackerRank-leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/baargavi100/HackerRank-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/baargavi100/HackerRank-leetcode/tree/master/0268-missing-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/baargavi100/HackerRank-leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/baargavi100/HackerRank-leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/baargavi100/HackerRank-leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
